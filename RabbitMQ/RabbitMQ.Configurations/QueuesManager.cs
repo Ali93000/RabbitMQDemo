@@ -1,6 +1,6 @@
 ﻿namespace RabbitMQ.Configurations
 {
-    public class Class1
+    public class QueuesManager
     {
 
     }
