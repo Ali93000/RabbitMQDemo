@@ -1,0 +1,17 @@
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Consumer2\bin\Debug\net6.0\RabbitMQ_Consumer2.exe
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Consumer2\bin\Debug\net6.0\RabbitMQ_Consumer2.deps.json
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Consumer2\bin\Debug\net6.0\RabbitMQ_Consumer2.runtimeconfig.json
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Consumer2\bin\Debug\net6.0\RabbitMQ_Consumer2.dll
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Consumer2\bin\Debug\net6.0\RabbitMQ_Consumer2.pdb
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Consumer2\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Consumer2\obj\Debug\net6.0\RabbitMQ_Consumer2.csproj.AssemblyReference.cache
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Consumer2\obj\Debug\net6.0\RabbitMQ_Consumer2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Consumer2\obj\Debug\net6.0\RabbitMQ_Consumer2.AssemblyInfoInputs.cache
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Consumer2\obj\Debug\net6.0\RabbitMQ_Consumer2.AssemblyInfo.cs
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Consumer2\obj\Debug\net6.0\RabbitMQ_Consumer2.csproj.CoreCompileInputs.cache
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Consumer2\obj\Debug\net6.0\RabbitMQ_Consumer2.csproj.CopyComplete
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Consumer2\obj\Debug\net6.0\RabbitMQ_Consumer2.dll
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Consumer2\obj\Debug\net6.0\refint\RabbitMQ_Consumer2.dll
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Consumer2\obj\Debug\net6.0\RabbitMQ_Consumer2.pdb
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Consumer2\obj\Debug\net6.0\RabbitMQ_Consumer2.genruntimeconfig.cache
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Consumer2\obj\Debug\net6.0\ref\RabbitMQ_Consumer2.dll

@@ -1,0 +1,17 @@
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Sender\bin\Debug\net6.0\RabbitMQ_Sender.exe
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Sender\bin\Debug\net6.0\RabbitMQ_Sender.deps.json
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Sender\bin\Debug\net6.0\RabbitMQ_Sender.runtimeconfig.json
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Sender\bin\Debug\net6.0\RabbitMQ_Sender.dll
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Sender\bin\Debug\net6.0\RabbitMQ_Sender.pdb
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Sender\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Sender\obj\Debug\net6.0\RabbitMQ_Sender.csproj.AssemblyReference.cache
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Sender\obj\Debug\net6.0\RabbitMQ_Sender.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Sender\obj\Debug\net6.0\RabbitMQ_Sender.AssemblyInfoInputs.cache
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Sender\obj\Debug\net6.0\RabbitMQ_Sender.AssemblyInfo.cs
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Sender\obj\Debug\net6.0\RabbitMQ_Sender.csproj.CoreCompileInputs.cache
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Sender\obj\Debug\net6.0\RabbitMQ_Sender.csproj.CopyComplete
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Sender\obj\Debug\net6.0\RabbitMQ_Sender.dll
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Sender\obj\Debug\net6.0\refint\RabbitMQ_Sender.dll
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Sender\obj\Debug\net6.0\RabbitMQ_Sender.pdb
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Sender\obj\Debug\net6.0\RabbitMQ_Sender.genruntimeconfig.cache
+E:\Git Repo\RabbitMQDemo\RabbitMQ\RabbitMQ_Sender\obj\Debug\net6.0\ref\RabbitMQ_Sender.dll
